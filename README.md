@@ -693,7 +693,7 @@ different programming languages**
 
 =============================================================================================
 
-# 10. Top Websites to Follow
+# 10. Top Websites to Follow :bookmark:
 
 1.   **Data Science**
       - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
